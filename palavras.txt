@@ -1,0 +1,11 @@
+10
+GELADEIRA;é um eletrodoméstico
+GOLFINHO;é um mamífero
+ANTARTIDA;maior deserto do mundo
+MUHAMMAD;nome mais comum do mundo
+DIAMANTE;material mais resistente do mundo
+BRASIL;quinto país mais populoso
+YAHOO;um dos sites mais acessados do mundo
+PETABYTE;megabyte, gigabyte, terabyte...
+OBJECT;classe mais importante do java
+AVATAR;filme com a maior bilheteria
